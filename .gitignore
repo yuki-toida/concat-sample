@@ -23,7 +23,7 @@ debug
 /assets/node_modules
 /assets/dist
 /assets/yarn-error.log
-/vendor/video
+/assets/video
 
 # mysql volume
 /mysql/data/
